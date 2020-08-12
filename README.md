@@ -17,7 +17,7 @@
 
 ![Превью](https://github.com/ZifRD/oceanographic_section_shapes_area/blob/master/pics/IS_shapes.PNG)
 
-3. Нахождение итоговой площади и построение финального рисунка. Используя clabel объекта axis с manual = True можно в интерактивном режиме указать позицию отображения подписи для изолинии. 
+3. Нахождение итоговой площади и построение финального рисунка. Используя clabel объекта axis с manual = True можно в интерактивном режиме указать позицию отображения подписи для изолинии. Черным показаны точки измерений.
 
 ![Превью](https://github.com/ZifRD/oceanographic_section_shapes_area/blob/master/pics/IS_result.PNG)
 
