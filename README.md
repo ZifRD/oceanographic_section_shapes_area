@@ -30,3 +30,5 @@
 Придётся склеивать их и доопределять замкнутую линию. Итоговое изображение.
 
 ![Превью](https://github.com/ZifRD/oceanographic_section_shapes_area/blob/master/pics/Kola_result.PNG)
+
+В первом скрипте для доступа к фрагментам изолиний используется от CS = ax.contour вариант CS.allsegs[i][j], а во втором - развёрнутый вариант CS.collections[i].get_paths()[j] (работают аналогично).
