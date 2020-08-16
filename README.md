@@ -6,6 +6,8 @@
 
 С постановкой задачи, детальным алгоритмом решения и первой версией стека технологий (на базе Matlab, Java и VBA с API Surfer Scripter) можно познакомиться в [тезисах](https://drive.google.com/file/d/1RX0jfKOg2ehiJdeVD5f_IGiID5ocsuLr/view?usp=sharing) и [статье](https://drive.google.com/file/d/15q9kqaZ6EprxA88KLb5TNRhnMLp0XGVe/view?usp=sharing)(разрез "Кольский меридиан"). Основная проблема - плохо документированный Scripter, необходимость кастомизированных визуализаций, которую не поддерживал Scripter, желание использовать только свободное ПО и легкомодифицируемые скрипты на одном языке программирования. Обновленная версия на базе Python представлена в [статье](https://drive.google.com/file/d/1Hc-08rlLEOEh0Pdlfu-XuGNqzukTyMtZ/view?usp=sharing), в файлах AreaCalculator_fjord.ipynb (разрез в Ис-Фьорде, Шпицберген) и AreaCalculator_KolaMeridian.ipynb (разрез "Кольский меридиан") содержатся фрагменты для случая обработки одного входного файла в соответствии с этой версией.
 
+![Превью](https://github.com/ZifRD/norms_anomalies_TS/blob/master/pics/Area.png)
+
 ### AreaCalculator_fjord.ipynb
 Площади фигур, ограниченных изолиниями (изохалина 34,8 psu), поверхность воды и дном для пространственного распределения солёности по данным экспедиции 2018 года, разрез в Ис-Фьорде (Шпицберген).
 
